@@ -1,0 +1,21 @@
+@font-face {
+	font-family: "Century Gothic";
+	src: url("./Century\ Gothic.ttf") format("truetype"); /* Safari, Android, iOS */
+}
+
+body {
+	background: #33221e;
+	font-family: "Century Gothic";
+}
+
+.text-color-dark-1 {
+	color: #33221e;
+}
+
+.text-color-bright-1 {
+	color: #ffaf4c;
+}
+
+.text-color-bright-2 {
+	color: #fff4e5;
+}
